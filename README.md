@@ -3,17 +3,22 @@
 
 置顶tips：如果你也有自己学习路上收集的一些好资料，或者愿意展示自己的优质博客给大家欢迎fork  pull request给我~（联系邮箱GETF_own@163.com）
 
-最新更新时间：2018/2/26
+最新更新时间：2018/2/12
 
 更新内容：
+[Meterpreter综合提权](https://bbs.ichunqiu.com/thread-17990-1-1.html?from=bbsrt1)
+[
+Metasploit实验：制作免杀payload+对任意“外网”主机的远控 ](http://www.freebuf.com/sectool/136736.html)
 
-[任意用户密码重置（一）：重置凭证泄漏](http://www.freebuf.com/articles/web/160883.html)
+[渗透师 网络安全从业者安全导航](http://shentoushi.top/knowledge)
 
-[任意用户密码重置（二）：重置凭证接收端可篡改](http://www.freebuf.com/articles/database/161495.html)           
+[任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
 
-[从Ajax聊一聊Jsonp hijacking](http://blog.csdn.net/wy_97/article/details/79219203)    
+[安全运维 | Perl oneline定位网站攻击源，通过iptables封禁](http://www.freebuf.com/articles/web/161790.html)
 
-[XP SP3堆研究](https://bbs.ichunqiu.com/thread-33885-1-1.html)
+[ 服务器安全篇【ssh安全】 ](http://blog.csdn.net/wy_97/article/details/79309645)
+
+[windows粘滞键提权的尝试与思考 ](http://blog.csdn.net/wy_97/article/details/79279827)
 
 ## 知识技能表
 
@@ -97,6 +102,10 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 ## Some Security Learning Website
 
+强烈推荐第一个，总结的各种站点很棒！
+
+[渗透师 网络安全从业者安全导航](http://shentoushi.top/knowledge)
+
 [FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/)
 
 [T00LS - 低调求发展 - 潜心习安全](https://www.t00ls.net/)
@@ -119,11 +128,17 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [CDN服务及如何获取CDN服务背后的真实IP](http://blog.csdn.net/wy_97/article/details/79079381)
 
+### 弱口令
+
+[Linux **SSH**密码暴力破解技术及攻防实战](http://www.freebuf.com/sectool/159488.html)
+
 ### sql注入
 
 [sql注入基于布尔/时间的盲注详解](http://blog.csdn.net/wy_97/article/details/78169623)
 
 [数据库out_of_band攻击【原理分析、复现】](http://blog.csdn.net/wy_97/article/details/79094001)
+
+[Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
 
 [MySQL宽字节注入漏洞分析](http://blog.csdn.net/wy_97/article/details/77389088)
 
@@ -135,21 +150,44 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [PHP代码安全【PHP弱口令、加密函数、绕过函数】/CTF代码审计题](http://blog.csdn.net/wy_97/article/details/79088218)
 
+### jsonp hijacking
+
+[从Ajax聊一聊Jsonp hijacking](http://blog.csdn.net/wy_97/article/details/79219203)       
+
+### csp bypass
+
+[Content Security Policy 入门教程](https://jaq.alibaba.com/community/art/show?articleid=518)
+
+[CSP的今世与未来](https://segmentfault.com/a/1190000007193840)
+
+[CSP Level 3浅析&简单的bypass](https://lorexxar.cn/2016/08/08/ccsp/)            
+
 ### 其他
 
 [任意用户密码重置（一）：重置凭证泄漏](http://www.freebuf.com/articles/web/160883.html)
 
 [任意用户密码重置（二）：重置凭证接收端可篡改](http://www.freebuf.com/articles/database/161495.html)           
 
-[从Ajax聊一聊Jsonp hijacking](http://blog.csdn.net/wy_97/article/details/79219203)               
+[任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
 
+### 安全运维
 
+[安全运维 | Perl oneline定位网站攻击源，通过iptables封禁](http://www.freebuf.com/articles/web/161790.html)
+
+[ 服务器安全篇【ssh安全】 ](http://blog.csdn.net/wy_97/article/details/79309645)
+
+[windows粘滞键提权的尝试与思考 ](http://blog.csdn.net/wy_97/article/details/79279827)
+
+## 渗透提权
+
+### msf提权
+
+[Meterpreter综合提权](https://bbs.ichunqiu.com/thread-17990-1-1.html?from=bbsrt1)
+[
+Metasploit实验：制作免杀payload+对任意“外网”主机的远控 ](http://www.freebuf.com/sectool/136736.html)
 
 ## Software Security
 
 ### 堆溢出
 
 [XP SP3堆研究](https://bbs.ichunqiu.com/thread-33885-1-1.html)
-
-
-
