@@ -3,22 +3,25 @@
 
 置顶tips：如果你也有自己学习路上收集的一些好资料，或者愿意展示自己的优质博客给大家欢迎fork  pull request给我~（联系邮箱GETF_own@163.com）
 
-最新更新时间：2018/2/12
+最新更新时间：2018/2/27
 
 更新内容：
-[Meterpreter综合提权](https://bbs.ichunqiu.com/thread-17990-1-1.html?from=bbsrt1)
-[
-Metasploit实验：制作免杀payload+对任意“外网”主机的远控 ](http://www.freebuf.com/sectool/136736.html)
 
-[渗透师 网络安全从业者安全导航](http://shentoushi.top/knowledge)
+[如何写一个你自己的Web集群式渗透系统](http://www.freebuf.com/articles/web/161845.html)        
 
-[任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
+[分析CVE-2018-6376 – Joomla！二阶SQL注入](www.freebuf.com/articles/web/162822.html)
 
-[安全运维 | Perl oneline定位网站攻击源，通过iptables封禁](http://www.freebuf.com/articles/web/161790.html)
+[二阶SQL注入理解与体会](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
 
-[ 服务器安全篇【ssh安全】 ](http://blog.csdn.net/wy_97/article/details/79309645)
+[CSRF（跨站点请求伪造）在Flash中的利用](http://www.freebuf.com/articles/web/155189.html)
 
-[windows粘滞键提权的尝试与思考 ](http://blog.csdn.net/wy_97/article/details/79279827)
+[分享一个用于企业内部环境的SSH弱密码审计工具](http://www.freebuf.com/sectool/163343.html)
+
+[Shodan自动化利用](https://xianzhi.aliyun.com/forum/topic/2070)
+
+[Win提权思路，方法，工具（小总结）](https://bbs.ichunqiu.com/thread-34900-1-1.html)
+
+[奇技淫巧 | 读DEDECMS找后台目录有感](https://bbs.ichunqiu.com/thread-34852-1-1.html)
 
 ## 知识技能表
 
@@ -28,7 +31,7 @@ Metasploit实验：制作免杀payload+对任意“外网”主机的远控 ](ht
 
 ## CTF练习 Writeup
 
-这是我自己从最早入门开始练习的一些题目往下排列的，可能很多当时写的write up有理解上的错误并未改正，有发现的欢迎指正~
+这是我自己从最早入门开始练习的一些题目往下排列的，可能很多当时写的write up有理解上的错误并未改正，有发现的欢迎指正~(供刚刚入门ctf的萌新参考使用~QWQ)
 
 Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你要学会思路，注意一点，脑洞题别陷进去，ctf很多题目还是为了比赛而出的题目，在日常渗透测试工作中并不会出现~
 
@@ -49,7 +52,6 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 [CTF实验吧-忘记密码了【vim编辑器备份文件】](http://blog.csdn.net/wy_97/article/details/76559354)
 
 [实验吧-Forbidden/头有点大【Accept-Language参数伪造登录地址】](http://blog.csdn.net/wy_97/article/details/76690267)                     
-
 [实验吧-看起来有点难【基于sleep的sql注入脚本】](http://blog.csdn.net/wy_97/article/details/76715187)
 
 [实验吧-天网管理系统【php弱类型==与===的利用】](http://blog.csdn.net/wy_97/article/details/76849665)
@@ -128,6 +130,8 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [CDN服务及如何获取CDN服务背后的真实IP](http://blog.csdn.net/wy_97/article/details/79079381)
 
+[Shodan自动化利用](https://xianzhi.aliyun.com/forum/topic/2070)
+
 ### 弱口令
 
 [Linux **SSH**密码暴力破解技术及攻防实战](http://www.freebuf.com/sectool/159488.html)
@@ -146,6 +150,14 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [基于约束的SQL攻击 【电脑环境mysql实测漏洞已经修补】](http://blog.csdn.net/wy_97/article/details/77972375)
 
+[分析CVE-2018-6376 – Joomla！二阶SQL注入](www.freebuf.com/articles/web/162822.html)
+
+[二阶SQL注入理解与体会](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
+
+### CSRF
+
+[CSRF（跨站点请求伪造）在Flash中的利用](http://www.freebuf.com/articles/web/155189.html)
+
 ### 代码审计
 
 [PHP代码安全【PHP弱口令、加密函数、绕过函数】/CTF代码审计题](http://blog.csdn.net/wy_97/article/details/79088218)
@@ -160,7 +172,23 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [CSP的今世与未来](https://segmentfault.com/a/1190000007193840)
 
-[CSP Level 3浅析&简单的bypass](https://lorexxar.cn/2016/08/08/ccsp/)            
+[CSP Level 3浅析&简单的bypass](https://lorexxar.cn/2016/08/08/ccsp/)  
+
+### web缓存欺骗
+
+[技术解析 | Web缓存欺骗测试](http://www.freebuf.com/articles/web/161670.html)  
+
+### 安全运维
+
+[安全运维 | Perl oneline定位网站攻击源，通过iptables封禁](http://www.freebuf.com/articles/web/161790.html)
+
+[ 服务器安全篇【ssh安全】 ](http://blog.csdn.net/wy_97/article/details/79309645)
+
+[分享一个用于企业内部环境的SSH弱密码审计工具](http://www.freebuf.com/sectool/163343.html)
+
+### 安全开发
+
+[如何写一个你自己的Web集群式渗透系统](http://www.freebuf.com/articles/web/161845.html)        
 
 ### 其他
 
@@ -170,21 +198,22 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
 
-### 安全运维
+[奇技淫巧 | 读DEDECMS找后台目录有感](https://bbs.ichunqiu.com/thread-34852-1-1.html)
 
-[安全运维 | Perl oneline定位网站攻击源，通过iptables封禁](http://www.freebuf.com/articles/web/161790.html)
-
-[ 服务器安全篇【ssh安全】 ](http://blog.csdn.net/wy_97/article/details/79309645)
-
-[windows粘滞键提权的尝试与思考 ](http://blog.csdn.net/wy_97/article/details/79279827)
 
 ## 渗透提权
 
 ### msf提权
 
 [Meterpreter综合提权](https://bbs.ichunqiu.com/thread-17990-1-1.html?from=bbsrt1)
-[
-Metasploit实验：制作免杀payload+对任意“外网”主机的远控 ](http://www.freebuf.com/sectool/136736.html)
+
+[Metasploit实验：制作免杀payload+对任意“外网”主机的远控](http://www.freebuf.com/sectool/136736.html)
+
+[Win提权思路，方法，工具（小总结）](https://bbs.ichunqiu.com/thread-34900-1-1.html)
+
+### 其他
+
+[windows粘滞键提权的尝试与思考 ](http://blog.csdn.net/wy_97/article/details/79279827)
 
 ## Software Security
 
