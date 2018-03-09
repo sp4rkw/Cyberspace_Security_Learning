@@ -3,25 +3,39 @@
 
 置顶tips：如果你也有自己学习路上收集的一些好资料，或者愿意展示自己的优质博客给大家欢迎fork  pull request给我~（联系邮箱GETF_own@163.com）
 
-最新更新时间：2018/2/27
+最新更新时间：2018/3/9
 
 更新内容：
 
-[如何写一个你自己的Web集群式渗透系统](http://www.freebuf.com/articles/web/161845.html)        
+[基于MetaSploit内网穿透渗透测试](http://www.freebuf.com/news/163943.html)
 
-[分析CVE-2018-6376 – Joomla！二阶SQL注入](www.freebuf.com/articles/web/162822.html)
+[Hack With Rewrite](https://xianzhi.aliyun.com/forum/topic/2126)
 
-[二阶SQL注入理解与体会](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
+[根据目标用户信息，Python生成WPA2密码字典](http://www.freebuf.com/articles/wireless/163710.html)
 
-[CSRF（跨站点请求伪造）在Flash中的利用](http://www.freebuf.com/articles/web/155189.html)
+[解密古老又通杀的路由器攻击手法：从嗅探PPPoE到隐蔽性后门](http://www.freebuf.com/articles/wireless/163480.html)
 
-[分享一个用于企业内部环境的SSH弱密码审计工具](http://www.freebuf.com/sectool/163343.html)
+[Winpayloads：不可检测的Windows Payload生成工具](http://www.freebuf.com/sectool/163013.html)
 
-[Shodan自动化利用](https://xianzhi.aliyun.com/forum/topic/2070)
+[Windows下Shellcode编写详解](https://xianzhi.aliyun.com/forum/topic/2108)
 
-[Win提权思路，方法，工具（小总结）](https://bbs.ichunqiu.com/thread-34900-1-1.html)
+[经验分享 | 一句话免杀编写思路](http://www.freebuf.com/articles/system/164076.html)
 
-[奇技淫巧 | 读DEDECMS找后台目录有感](https://bbs.ichunqiu.com/thread-34852-1-1.html)
+[代码分享：使用Python和Tesseract来识别图形验证码](http://www.freebuf.com/sectool/163621.html)
+
+[经验分享 | JavaScript反调试技巧](http://www.freebuf.com/articles/system/163579.html)
+
+[任意用户密码重置（四）：重置凭证未校验](http://www.freebuf.com/articles/web/164090.html)
+
+[HTTPS 安全最佳实践（一）之SSL/TLS部署](https://xianzhi.aliyun.com/forum/topic/2116)
+
+[HTTPS 安全最佳实践（二）之安全加固](https://xianzhi.aliyun.com/forum/topic/2117)
+
+[WAF开发之Cookie安全防护](http://www.freebuf.com/articles/web/164232.html)
+
+[鸡肋CSRF和Self-XSS组合的变废为宝](http://www.freebuf.com/articles/web/164069.html)
+
+[危险的target —— 另一种攻击方式](https://xianzhi.aliyun.com/forum/topic/2123)
 
 ## 知识技能表
 
@@ -47,8 +61,7 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [实验吧-让我进去【salt加密 哈希长度拓展攻击】](http://blog.csdn.net/wy_97/article/details/76269819)
 
-[CTF实验吧-上传绕过【0x00截断】](http://blog.csdn.net/wy_97/article/details/76549405)                     
-
+[CTF实验吧-上传绕过【0x00截断】](http://blog.csdn.net/wy_97/article/details/76549405)             
 [CTF实验吧-忘记密码了【vim编辑器备份文件】](http://blog.csdn.net/wy_97/article/details/76559354)
 
 [实验吧-Forbidden/头有点大【Accept-Language参数伪造登录地址】](http://blog.csdn.net/wy_97/article/details/76690267)                     
@@ -154,9 +167,13 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [二阶SQL注入理解与体会](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
 
+[利用MySQL UDF进行的一次渗透测试](http://www.freebuf.com/articles/system/163144.html)
+
 ### CSRF
 
 [CSRF（跨站点请求伪造）在Flash中的利用](http://www.freebuf.com/articles/web/155189.html)
+
+[鸡肋CSRF和Self-XSS组合的变废为宝](http://www.freebuf.com/articles/web/164069.html)
 
 ### 代码审计
 
@@ -186,22 +203,50 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [分享一个用于企业内部环境的SSH弱密码审计工具](http://www.freebuf.com/sectool/163343.html)
 
+[经验分享 | JavaScript反调试技巧](http://www.freebuf.com/articles/system/163579.html)
+
+[HTTPS 安全最佳实践（一）之SSL/TLS部署](https://xianzhi.aliyun.com/forum/topic/2116)
+
+[HTTPS 安全最佳实践（二）之安全加固](https://xianzhi.aliyun.com/forum/topic/2117)
+
 ### 安全开发
 
-[如何写一个你自己的Web集群式渗透系统](http://www.freebuf.com/articles/web/161845.html)        
+[如何写一个你自己的Web集群式渗透系统](http://www.freebuf.com/articles/web/161845.html)
+
+[WAF开发之Cookie安全防护](http://www.freebuf.com/articles/web/164232.html)  
+
+### 字典
+
+[根据目标用户信息，Python生成WPA2密码字典](http://www.freebuf.com/articles/wireless/163710.html)     
 
 ### 其他
 
 [任意用户密码重置（一）：重置凭证泄漏](http://www.freebuf.com/articles/web/160883.html)
 
 [任意用户密码重置（二）：重置凭证接收端可篡改](http://www.freebuf.com/articles/database/161495.html)           
-
 [任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
+
+[任意用户密码重置（四）：重置凭证未校验](http://www.freebuf.com/articles/web/164090.html)
 
 [奇技淫巧 | 读DEDECMS找后台目录有感](https://bbs.ichunqiu.com/thread-34852-1-1.html)
 
+[代码分享：使用Python和Tesseract来识别图形验证码](http://www.freebuf.com/sectool/163621.html)
+
+[Hack With Rewrite](https://xianzhi.aliyun.com/forum/topic/2126)
+
+[危险的target —— 另一种攻击方式](https://xianzhi.aliyun.com/forum/topic/2123)
 
 ## 渗透提权
+
+### payload免杀
+
+[Winpayloads：不可检测的Windows Payload生成工具](http://www.freebuf.com/sectool/163013.html)
+
+[经验分享 | 一句话免杀编写思路](http://www.freebuf.com/articles/system/164076.html)
+
+### 内网穿透
+
+[基于MetaSploit内网穿透渗透测试](http://www.freebuf.com/news/163943.html)
 
 ### msf提权
 
@@ -220,3 +265,13 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 ### 堆溢出
 
 [XP SP3堆研究](https://bbs.ichunqiu.com/thread-33885-1-1.html)
+
+### shellcode
+
+[Windows下Shellcode编写详解](https://xianzhi.aliyun.com/forum/topic/2108)
+
+## Wireless security
+
+### 路由器安全
+
+[解密古老又通杀的路由器攻击手法：从嗅探PPPoE到隐蔽性后门](http://www.freebuf.com/articles/wireless/163480.html)
