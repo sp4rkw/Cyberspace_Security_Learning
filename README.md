@@ -3,15 +3,43 @@
 
 置顶tips：如果你也有自己学习路上收集的一些好资料，或者愿意展示自己的优质博客给大家欢迎fork  pull request给我~（联系邮箱GETF_own@163.com）
 
-最新更新时间：2018/3/13
+同步更新地址：http://anquanxiaozhan.com/learning/
+
+最新更新时间：2019/8/31
+
+这个项目好久都没有更新了，主要是因为去年考研的缘故，今年一直各种各样的事情也是比较多的，之后持续每周更新吧
 
 更新内容：
 
-[任意用户密码重置（五）：重置凭证可暴破](http://www.freebuf.com/articles/web/164510.html)
+[BugkuCTF 平台](https://www.bugku.com/ctf.html)
 
-[一些有趣的代码审计“小”题目为CTF-Web-dog提供一些套路](https://github.com/CHYbeta/Code-Audit-Challenges)
+[倾旋](https://payloads.online/)
 
-[了解SSRF,这一篇就足够了](https://xianzhi.aliyun.com/forum/topic/2115)
+[l3m0n](https://www.cnblogs.com/iamstudy/)
+
+[nmask](https://thief.one/)\
+
+[chybeta](https://chybeta.github.io/)
+
+[giantbranch](https://www.giantbranch.cn/)
+
+[离别歌](https://www.leavesongs.com/)
+
+[Junay](https://delcoding.github.io/)
+
+[IceMatcha](https://icematcha.win/)
+
+[rcoil](https://rcoil.me/)
+
+[Unname_Bao](https://blog.csdn.net/s1054436218)
+
+[说说Windows安全应急响应](https://www.freebuf.com/articles/es/210315.html)
+
+[ARP欺骗常见姿势及多机ARP欺骗](https://www.freebuf.com/articles/network/207238.html)
+
+[全程带阻：记一次授权网络攻防演练（下）](https://www.freebuf.com/vuls/211847.html)
+
+[全程带阻：记一次授权网络攻防演练（上）](https://www.freebuf.com/vuls/211842.html)
 
 ## 知识技能表
 
@@ -37,11 +65,11 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [实验吧-让我进去【salt加密 哈希长度拓展攻击】](http://blog.csdn.net/wy_97/article/details/76269819)
 
-[CTF实验吧-上传绕过【0x00截断】](http://blog.csdn.net/wy_97/article/details/76549405)      
+[CTF实验吧-上传绕过【0x00截断】](http://blog.csdn.net/wy_97/article/details/76549405) 
 
 [CTF实验吧-忘记密码了【vim编辑器备份文件】](http://blog.csdn.net/wy_97/article/details/76559354)
 
-[实验吧-Forbidden/头有点大【Accept-Language参数伪造登录地址】](http://blog.csdn.net/wy_97/article/details/76690267)      
+[实验吧-Forbidden/头有点大【Accept-Language参数伪造登录地址】](http://blog.csdn.net/wy_97/article/details/76690267)
 
 [实验吧-看起来有点难【基于sleep的sql注入脚本】](http://blog.csdn.net/wy_97/article/details/76715187)
 
@@ -87,15 +115,13 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [WeChall Challenges](http://www.wechall.net/challs)
 
-[CTF - 练习平台](http://123.206.31.85/challenges)
+[BugkuCTF 平台](https://www.bugku.com/ctf.html)
 
 [Jarvis OJ](https://www.jarvisoj.com/)
 
 [CTF Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 
 ## Some Security Learning Website
-
-强烈推荐第一个，总结的各种站点很棒！
 
 [渗透师 网络安全从业者安全导航](http://shentoushi.top/knowledge)
 
@@ -110,6 +136,38 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 [先知安全技术社区](https://xianzhi.aliyun.com/forum/)
 
 [吾爱破解 - LCG - LSG|安卓破解|病毒分析|破解软件](https://www.52pojie.cn/)
+
+## Some DaLao's blog
+
+这个分类只是我收集到并经常去看文章的blog，并不具有权威性，推荐配合google的`Rss Feed Reader`订阅使用
+
+[倾旋](https://payloads.online/)
+
+[l3m0n](https://www.cnblogs.com/iamstudy/)
+
+[nmask](https://thief.one/)\
+
+[chybeta](https://chybeta.github.io/)
+
+[giantbranch](https://www.giantbranch.cn/)
+
+[离别歌](https://www.leavesongs.com/)
+
+[Junay](https://delcoding.github.io/)
+
+[IceMatcha](https://icematcha.win/)
+
+[rcoil](https://rcoil.me/)
+
+[Unname_Bao](https://blog.csdn.net/s1054436218)
+
+[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
+
+[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
+
+[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
+
+[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
 
 
 
@@ -131,45 +189,37 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [sql注入基于布尔/时间的盲注详解](http://blog.csdn.net/wy_97/article/details/78169623)
 
+[数据库out_of_band攻击【原理分析、复现】](http://blog.csdn.net/wy_97/article/details/79094001)
+
+[Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
+
 [MySQL宽字节注入漏洞分析](http://blog.csdn.net/wy_97/article/details/77389088)
 
 [sql盲注之**报错注入**(附自动化脚本)](http://www.freebuf.com/column/158705.html)
 
 [基于约束的SQL攻击 【电脑环境mysql实测漏洞已经修补】](http://blog.csdn.net/wy_97/article/details/77972375)
 
-[利用MySQL UDF进行的一次渗透测试](http://www.freebuf.com/articles/system/163144.html)
-
-### 二阶注入
+[分析CVE-2018-6376 – Joomla！二阶SQL注入](www.freebuf.com/articles/web/162822.html)
 
 [二阶SQL注入理解与体会](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
 
-[分析CVE-2018-6376 – Joomla！二阶SQL注入](www.freebuf.com/articles/web/162822.html)
+[利用MySQL UDF进行的一次渗透测试](http://www.freebuf.com/articles/system/163144.html)
 
-### out_of_band注入
-
-[数据库out_of_band攻击【原理分析、复现】](http://blog.csdn.net/wy_97/article/details/79094001)
-
-[Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
-
-### CSRF
+### 跨域问题
 
 [CSRF（跨站点请求伪造）在Flash中的利用](http://www.freebuf.com/articles/web/155189.html)
 
 [鸡肋CSRF和Self-XSS组合的变废为宝](http://www.freebuf.com/articles/web/164069.html)
 
-### SSRF
+[从Ajax聊一聊Jsonp hijacking](http://blog.csdn.net/wy_97/article/details/79219203)    
 
-[了解SSRF,这一篇就足够了](https://xianzhi.aliyun.com/forum/topic/2115)
+[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
+
+[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
 
 ### 代码审计
 
 [PHP代码安全【PHP弱口令、加密函数、绕过函数】/CTF代码审计题](http://blog.csdn.net/wy_97/article/details/79088218)
-
-[一些有趣的代码审计“小”题目为CTF-Web-dog提供一些套路](https://github.com/CHYbeta/Code-Audit-Challenges)
-
-### jsonp hijacking
-
-[从Ajax聊一聊Jsonp hijacking](http://blog.csdn.net/wy_97/article/details/79219203)       
 
 ### csp bypass
 
@@ -205,19 +255,27 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 ### 字典
 
-[根据目标用户信息，Python生成WPA2密码字典](http://www.freebuf.com/articles/wireless/163710.html)     
+[根据目标用户信息，Python生成WPA2密码字典](http://www.freebuf.com/articles/wireless/163710.html) 
+
+### arp攻击
+
+[ARP欺骗常见姿势及多机ARP欺骗](https://www.freebuf.com/articles/network/207238.html)
+
+### 优质实战文章
+
+[全程带阻：记一次授权网络攻防演练（下）](https://www.freebuf.com/vuls/211847.html)
+
+[全程带阻：记一次授权网络攻防演练（上）](https://www.freebuf.com/vuls/211842.html)
 
 ### 其他
 
 [任意用户密码重置（一）：重置凭证泄漏](http://www.freebuf.com/articles/web/160883.html)
 
-[任意用户密码重置（二）：重置凭证接收端可篡改](http://www.freebuf.com/articles/database/161495.html)     
+[任意用户密码重置（二）：重置凭证接收端可篡改](http://www.freebuf.com/articles/database/161495.html)   
 
 [任意用户密码重置（三）：用户混淆](http://www.freebuf.com/articles/web/162152.html)  
 
 [任意用户密码重置（四）：重置凭证未校验](http://www.freebuf.com/articles/web/164090.html)
-
-[任意用户密码重置（五）：重置凭证可暴破](http://www.freebuf.com/articles/web/164510.html)
 
 [奇技淫巧 | 读DEDECMS找后台目录有感](https://bbs.ichunqiu.com/thread-34852-1-1.html)
 
@@ -226,6 +284,8 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 [Hack With Rewrite](https://xianzhi.aliyun.com/forum/topic/2126)
 
 [危险的target —— 另一种攻击方式](https://xianzhi.aliyun.com/forum/topic/2123)
+
+[说说Windows安全应急响应](https://www.freebuf.com/articles/es/210315.html)
 
 ## 渗透提权
 
