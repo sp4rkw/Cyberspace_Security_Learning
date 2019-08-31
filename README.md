@@ -41,6 +41,14 @@
 
 [全程带阻：记一次授权网络攻防演练（上）](https://www.freebuf.com/vuls/211842.html)
 
+[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
+
+[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
+
+[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
+
+[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
+
 ## 知识技能表
 
 [知道创宇技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/)
@@ -145,7 +153,7 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [l3m0n](https://www.cnblogs.com/iamstudy/)
 
-[nmask](https://thief.one/)\
+[nmask](https://thief.one/)
 
 [chybeta](https://chybeta.github.io/)
 
@@ -161,13 +169,6 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [Unname_Bao](https://blog.csdn.net/s1054436218)
 
-[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
-
-[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
-
-[CORS（跨域资源共享）错误配置漏洞的高级利用](https://www.freebuf.com/articles/web/204023.html)
-
-[JSONP劫持CORS跨源资源共享漏洞](https://www.freebuf.com/column/207802.html)
 
 
 
