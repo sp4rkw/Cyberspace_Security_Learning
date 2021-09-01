@@ -12,38 +12,28 @@
 #### 善于使用 ctrl+F 是一项非常重要的技能
 
 
-最新更新时间：2021/08/12
+最新更新时间：2021/09/01
 
 
 更新内容：
 
-[微信小程序的修炼五脉（降妖）](https://my.oschina.net/u/4587690/blog/4451593)
+[iOS视频广告游戏跳过](https://www.52pojie.cn/thread-1473224-1-1.html)
 
-[微信小程序的渗透五脉（访道篇）](https://my.oschina.net/u/4587690/blog/4451635)
+[ios 手把手教你运行第一个逆向工程](https://www.52pojie.cn/thread-1491238-1-1.html)
 
-[微信小程序的修炼五脉（如意篇下）](https://my.oschina.net/u/4587690/blog/4451616)
+[frida获得阿里系APP签名函数地址及调用](https://www.52pojie.cn/thread-1491319-1-1.html)
 
-[微信小程序的修炼五脉（如意篇上）](https://my.oschina.net/u/4587690/blog/4451620)
+[Frida Android hook](https://eternalsakura13.com/2020/07/04/frida/)
 
-[微信小程序的渗透五脉（寻魔篇）](https://my.oschina.net/u/4587690/blog/4451638)
+[MySQL8新特性注入技巧](https://www.anquanke.com/post/id/249650)
 
-[Web渗透从App寻找攻击面的几个方法](https://my.oschina.net/u/4587690/blog/4549444)
+[利用WebSocket接口中转注入渗透实战](https://mp.weixin.qq.com/s/d6AhbonbMIaVpoZ3XGL-1g)
 
-[陌陌2019年度个人第一，讲解游戏的逻辑漏洞](https://mp.weixin.qq.com/s/6QYQ4z4T6SI8N88kf-DYwA)
+[太干了，Android 抓包姿势总结！](https://mp.weixin.qq.com/s/EB0MAJQs1CIEUHezmTFxtg)
 
-[再来!月神带你挖游戏的内存漏洞](https://mp.weixin.qq.com/s/CvzfpfS1Bg6DLY1k1_uNsA)
+[APP渗透指南分享](https://mp.weixin.qq.com/s/Smg-ob5fj_cbbgVXQKHphA)
 
-[挖洞分享|腾讯多个xss](https://www.sec-in.com/article/136)
-
-[Sec-IN社区安全测试——文章正文XSS](https://www.sec-in.com/article/261)
-
-[针对小程序的漏洞挖掘](https://www.sec-in.com/article/648)
-
-[Linux下任意文件下载获取web目录的几个tips](https://www.sec-in.com/article/537)
-
-[Oracle注入简单挖掘—范围查询in](https://www.sec-in.com/article/493)
-
-[XXE“葵花宝典”](https://www.sec-in.com/article/732)
+[DLL劫持原理学习](https://mp.weixin.qq.com/s/Qd6p6cQu1lOSMq7W-_qdnQ)
 
 
 ## 新人入门
@@ -174,6 +164,8 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [Oracle注入简单挖掘—范围查询in](https://www.sec-in.com/article/493)
 
+[MySQL8新特性注入技巧](https://www.anquanke.com/post/id/249650)
+
 ### redis 安全
 
 [redis未授权进阶利用姿势与思考](https://sp4rkw.blog.csdn.net/article/details/114385910)
@@ -270,6 +262,8 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [Linux下任意文件下载获取web目录的几个tips](https://www.sec-in.com/article/537)
 
+[利用WebSocket接口中转注入渗透实战](https://mp.weixin.qq.com/s/d6AhbonbMIaVpoZ3XGL-1g)
+
 ## 安全开发
 
 ### 扫描器开发
@@ -320,6 +314,14 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [泰阿移动安全测试专用环境模拟器(新版)](https://mp.weixin.qq.com/s?src=11&timestamp=1628575179&ver=3243&signature=Hl0dTkIm*Cnk2yl-SsVGRAi-TWlaAHIB9zF3YJmKlZMYg42NxF429cAhwEs-lNeKhAYjxeMVXUrWymoCnl3IE-UAlHzxGlNrbxityKtGL4r3JyhcCSxSwnz45CgAjDWM&new=1)
 
+[frida获得阿里系APP签名函数地址及调用](https://www.52pojie.cn/thread-1491319-1-1.html)
+
+[Frida Android hook](https://eternalsakura13.com/2020/07/04/frida/)
+
+[太干了，Android 抓包姿势总结！](https://mp.weixin.qq.com/s/EB0MAJQs1CIEUHezmTFxtg)
+
+[APP渗透指南分享](https://mp.weixin.qq.com/s/Smg-ob5fj_cbbgVXQKHphA)
+
 ### 签名破解
 
 [Tech：美团iOS逆向工程分析](https://chenqi.app/Meituan-iOS-Reverse-Engineering/)
@@ -327,6 +329,13 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 [某pinhui OAuth api_sign 分析](https://blog.csdn.net/qq_40000081/article/details/117953650)
 
 [某生鲜电商sign签名算法分析](https://www.52pojie.cn/thread-1476924-1-1.html)
+
+## ios安全
+
+[iOS视频广告游戏跳过](https://www.52pojie.cn/thread-1473224-1-1.html)
+
+[ios 手把手教你运行第一个逆向工程](https://www.52pojie.cn/thread-1491238-1-1.html)
+
 
 ## 游戏安全
 
@@ -341,6 +350,11 @@ Tips：练习多少题目不是重点，而是每道题给你演示的漏洞你�
 
 [【开罗游戏】闪耀滑雪场物语 去广告+修改金币+修改代币 下载+教程](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1476518&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline%26typeid%3D236)
 
+
+
+## 客户端安全
+
+[DLL劫持原理学习](https://mp.weixin.qq.com/s/Qd6p6cQu1lOSMq7W-_qdnQ)
 
 ## 应急响应
 
